@@ -1,0 +1,13 @@
+name: big_reader
+version: 0.1.0
+
+authors:
+  -  <>
+
+targets:
+  big-reader:
+    main: src/big_reader.cr
+
+crystal: 0.23.1
+
+license: MIT
